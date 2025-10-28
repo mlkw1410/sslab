@@ -77,8 +77,8 @@ int main() {
         }
     }
 
-    length = locctr - start;
-    printf("Program length: %X\n", length);
+    length = (int)locctr - start;
+    printf("Program length: %d\n", length);
     fprintf(leng, "%X\n", length);
 
     fclose(input);
