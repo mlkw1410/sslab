@@ -1,4 +1,0 @@
-ALPHA    100F    
-ONE      1012    
-TWO      1015    
-BETA     1018    
